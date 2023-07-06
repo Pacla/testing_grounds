@@ -1,0 +1,27 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  color: #fff;
+  background-color: #222;
+}
+
+header {
+  background-color: #444;
+  color: #fff;
+  padding: 20px;
+}
+
+nav {
+  background-color: #e96300;
+  padding: 10px;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #444;
+  color: #fff;
+  padding: 10px;
+}
